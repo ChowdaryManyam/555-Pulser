@@ -1,0 +1,6 @@
+Warning: Width correction constrained.  The width correction value must be in the range of [0.000001 mm; 0.199999 mm] for the current design rules.
+Plotted to '/home/chowdarymanyam/Downloads/Projects/Official/555-Pulser-Navnath-COE/New simplified/Mod-Ckt-Pulser/Gerber/Mod-Ckt-Pulser-F_Cu.gbr'.
+Plotted to '/home/chowdarymanyam/Downloads/Projects/Official/555-Pulser-Navnath-COE/New simplified/Mod-Ckt-Pulser/Gerber/Mod-Ckt-Pulser-B_Cu.gbr'.
+Plotted to '/home/chowdarymanyam/Downloads/Projects/Official/555-Pulser-Navnath-COE/New simplified/Mod-Ckt-Pulser/Gerber/Mod-Ckt-Pulser-Edge_Cuts.gbr'.
+Created Gerber job file '/home/chowdarymanyam/Downloads/Projects/Official/555-Pulser-Navnath-COE/New simplified/Mod-Ckt-Pulser/Gerber/Mod-Ckt-Pulser-job.gbrjob'.
+Info: Done.
